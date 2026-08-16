@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-text-splitters
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pandas
+numpy
+plotly
+Pillow
+bcrypt
